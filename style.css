@@ -41,10 +41,12 @@ body{
 
 .play-board .food{
     background-color: #FF003D;
+    border-radius: 1em;
 }
 
 .play-board .head{
     background-color: #60cbff;
+    border-radius: 2px;
 }
 
 .controls{

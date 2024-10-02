@@ -87,7 +87,7 @@ const initGame = () => {
     }
     playBoard.innerHTML = htmlMarkup;
 }
-setIntervalId = setInterval(initGame, 125);
+setIntervalId = setInterval(initGame, 100);
 
 changeFoodPosition();
 
